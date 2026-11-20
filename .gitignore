@@ -1,0 +1,20 @@
+# Akademik belgeler ve özgün dosya adlarını içeren yerel envanter
+/docs/yerel-arsiv/
+/docs/dosya-envanteri.md
+
+# Yerel Python ortamı ve üretilen dosyalar
+.venv/
+/.demo-cache/
+__pycache__/
+*.py[cod]
+
+# Yerelde indirilen veya dönüştürülen model ağırlıkları
+*.task
+*.keras
+*.tflite
+*.onnx
+
+# Yerel Xcode çıktıları ve kullanıcı ayarları
+/ios/build/
+xcuserdata/
+*.xcuserstate
