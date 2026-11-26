@@ -36,7 +36,7 @@ Proje iOS 17 ve üzerini hedefler. 26 Kasım 2026’da Xcode 27.2 ile uygulama d
 
 ## Çevrimdışı kamera denemesi
 
-26 Kasım 2026’da Salih, iPhone 15 uçak modundayken canlı kameranın A, B ve C’yi doğru tanıdığını ve denediği diğer harfler için tahmin göstermediğini bildirdi.
+26 Kasım 2026’da Salih, iPhone 15 internete bağlı değilken canlı kameranın A, B ve C’yi doğru tanıdığını ve denediği diğer harfler için tahmin göstermediğini bildirdi. B tahminini C olarak düzelttiğinde onaylanan C’nin titreşimi bir kez oynadı. Kamera **Yeni işaret tara** düğmesine basılana kadar bekledi.
 
 1. Kurulumdan sonra uygulamayı iPhone internete bağlıyken aç. iOS geliştiriciyi doğrulamanı isterse **Ayarlar → Genel → VPN ve Aygıt Yönetimi** altında kendi Apple geliştirme profilini açıp ekrandaki adımları tamamla.
 2. Uygulama açılınca uçak modunu aç ve Wi-Fi’nin kapalı olduğunu kontrol et. Aynı kurulu sürümde **Kameradan tanı → Taramayı başlat** yolunu izle. İlk kullanımda kamera izni ver. Yeniden yükleme, iOS’un geliştirici doğrulamasını tekrar istemesine yol açabilir.
