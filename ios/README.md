@@ -36,10 +36,11 @@ Proje iOS 17 ve üzerini hedefler. 26 Kasım 2026’da Xcode 27.2 ile uygulama d
 
 ## Çevrimdışı kamera denemesi
 
-1. Uygulama telefona kurulduktan sonra uçak modunu aç ve Wi-Fi’nin kapalı olduğunu kontrol et. **Kameradan tanı → Taramayı başlat** yolunu izle. İlk kullanımda kamera izni ver.
-2. Telefonu dik tut. Ön kameraya bir elinle A, B veya C işaretini göster. Üç ardışık karede aynı harfin skoru en az %75 olunca tahmin ekrana gelir.
-3. Gerekirse **Onaylanacak harf** alanından doğru harfi seç. **Onayla ve titreştir** düğmesine dokun. Onayladığın harf bir kez titreşir. Kamera taraması tahmin ekrana geldiğinde durur ve **Yeni işaret tara** ile tekrar açılır.
-4. Düşük skorda veya sonuç gelmediğinde elini yeniden konumlandır. **Yeniden tara** ile kamerayı baştan dene veya **Elle harf seç** ile doğrudan onay ekranına geç.
+1. Uygulamayı ilk kez iPhone internete bağlıyken aç. iOS geliştiriciyi doğrulamanı isterse **Ayarlar → Genel → VPN ve Aygıt Yönetimi** altında kendi Apple geliştirme profilini açıp ekrandaki adımları tamamla.
+2. Uygulama açılınca uçak modunu aç ve Wi-Fi’nin kapalı olduğunu kontrol et. **Kameradan tanı → Taramayı başlat** yolunu izle. İlk kullanımda kamera izni ver.
+3. Telefonu dik tut. Ön kameraya bir elinle A, B veya C işaretini göster. Üç ardışık karede aynı harfin skoru en az %75 olunca tahmin ekrana gelir.
+4. Gerekirse **Onaylanacak harf** alanından doğru harfi seç. **Onayla ve titreştir** düğmesine dokun. Onayladığın harf bir kez titreşir. Kamera taraması tahmin ekrana geldiğinde durur ve **Yeni işaret tara** ile tekrar açılır.
+5. Düşük skorda veya sonuç gelmediğinde elini yeniden konumlandır. **Yeniden tara** ile kamerayı baştan dene veya **Elle harf seç** ile doğrudan onay ekranına geç.
 
 ## İki dakikalık deneme
 
