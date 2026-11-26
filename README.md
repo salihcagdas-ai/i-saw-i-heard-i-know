@@ -8,7 +8,7 @@ Mobil prototipte telefon, kamerasıyla tanınan ve onaylanan işareti titreşiml
 
 Hazır bir model, tek fotoğraftaki Amerikan İşaret Dili (ASL) parmak alfabesi harfini tahmin edip Unicode Braille hücresini gösteriyor. Üç örnek görüntüde A → ⠁, B → ⠃ ve C → ⠉ çıktıları alındı. [Kurulum, örnekler ve test sonuçları](demo/README.md)
 
-iPhone 15’te A, B ve C titreşimlerinin çalıştığı doğrulandı. Aynı Xcode projesindeki kamera ekranı A, B ve C için çevrimdışı tahmin, düzeltme ve titreşim onayı sunuyor. [iPhone kurulumu ve deneme adımları](ios/README.md)
+iPhone 15’te A, B ve C titreşimleri ile bu harflerin çevrimdışı canlı kamera tanıması denendi. Kamera ekranında harfi titreşimden önce düzeltip onaylayabilirsin. [iPhone kurulumu ve deneme sonuçları](ios/README.md)
 
 MacBook’ta geliştirmeye devam ederken mevcut durumu ve ilk cihaz testini devir promptundan açabilirsin. [MacBook devir promptu](docs/macbook-devri.md)
 
