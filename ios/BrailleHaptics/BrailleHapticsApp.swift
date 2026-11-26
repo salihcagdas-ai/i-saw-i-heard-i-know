@@ -30,6 +30,13 @@ struct BraillePracticeView: View {
                              : "Hangi harfi hissettin?")
                             .font(.title3)
 
+                        NavigationLink {
+                            ASLCameraView(haptics: haptics, speed: speed)
+                        } label: {
+                            Label("Kameradan tanı", systemImage: "camera")
+                        }
+                        .buttonStyle(.bordered)
+
                         HStack(spacing: 12) {
                             ForEach(BrailleLetter.allCases) { letter in
                                 Button {
