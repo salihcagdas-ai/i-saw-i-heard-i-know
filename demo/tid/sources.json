@@ -1,0 +1,32 @@
+[
+  {"id":"9dfSycw1g1U","split":"train","group":"free-technology-signs","crop":[0.49,0,1,1]},
+  {"id":"A5WP62y9lz0","split":"train","group":"free-technology-signs","crop":[0.49,0,1,1]},
+  {"id":"roBUap1sgmM","split":"train","group":"ka226-math","crop":[0.56,0,1,1]},
+  {"id":"MuQXyvCwT8A","split":"train","group":"ka226-math","crop":[0.56,0,1,1]},
+  {"id":"02Nk-lAcavw","split":"train","group":"ka226-math","crop":[0.56,0,1,1]},
+  {"id":"4q-kinGYW5M","split":"train","group":"ka226-math","crop":[0.56,0,1,1]},
+  {"id":"rBJ2tF7fm1s","split":"train","group":"ministry-training","crop":[0.03,0,0.87,1]},
+  {"id":"jgMrs2wLp7A","split":"train","group":"ministry-training","crop":[0.02,0,0.84,1]},
+  {"id":"Z0o2--xR3EE","split":"dev","group":"ministry-held-out","crop":[0.01,0,0.70,1]},
+  {"id":"9Vw_ZfWSe8c","split":"test","group":"anlatan-eller","crop":[0,0,0.58,1]},
+  {
+    "id":"roportaj",
+    "split":"conversation",
+    "group":"plus-90",
+    "labels":[
+      {"start":14,"end":18,"text":"Maymunmuşuz gibi bakıyorlardı, şakalaşıyorduk zannediyorlardı."},
+      {"start":18,"end":21,"text":"Ana dilim işaret dili ama onlar başka bir şey olarak görüyorlardı."},
+      {"start":21,"end":23,"text":"Bundan rahatsız oluyordum."}
+    ]
+  },
+  {
+    "id":"diyalog",
+    "split":"conversation",
+    "group":"dem-dernegi",
+    "labels":[
+      {"start":9,"end":11,"text":"Senin adın ne?"},
+      {"start":32,"end":37,"text":"Dem Derneği'nde işaret dili öğrendim."},
+      {"start":38,"end":40,"text":"İşaretler çok güzel."}
+    ]
+  }
+]

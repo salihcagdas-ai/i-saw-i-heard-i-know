@@ -17,3 +17,7 @@ MacBook’ta geliştirmeye devam ederken mevcut durumu ve ilk cihaz testini devi
 Eski arşivden gereksinim raporları, tasarım çizimleri ve tamamlanmamış Python prototipi kurtarıldı. İlk cihaz fikri ve özgün prototipin durumu proje notlarında kayıtlı. [Proje notları](docs/proje-notlari.md)
 
 Araştırma, hazır Türk İşaret Dili modellerini, gözlük ve telefon örneklerini, karşılıklı yanıt kanallarını ele alıyor. [Hazır modeller ve gözlük tasarımı](docs/modeller-ve-gozluk.md)
+
+TİD cümle çevirisi için yerel veri hazırlama, eğitim ve ölçüm kodu bulunuyor. [TİD eğitim denemesi](demo/tid/README.md)
+
+Windows’ta TİD veri hazırlama ve CUDA eğitimi için devir promptu ve komutlar hazır. [Windows devri](docs/windows-devri.md)
